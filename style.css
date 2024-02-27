@@ -1,0 +1,27 @@
+body {
+    background-image: url("https://media.istockphoto.com/id/1367078593/vector/abstract-gray-modern-background.jpg?s=612x612&w=0&k=20&c=dH7j_YzMSLlwUpU_gZ3OtpD-XnkBEYYiEJ_T6-fjZ64=");
+    margin: 100px auto;
+}
+h2 {
+    text-align: center;
+}
+form {
+    text-align: center;
+
+}
+label {
+    margin-right: 10px;
+    margin-left: 10px;
+}
+input {
+    padding-top: 5px;
+    padding-right: 30px;
+    padding-left: 20px;
+}
+button {
+    padding-left: 250px;
+    padding-right: 250px;
+    padding-block: 5px;
+    padding-top: 5px;
+}
+
